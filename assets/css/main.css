@@ -15,20 +15,14 @@ div{
   background-color: red;
 }
 
-.yellow-1{
-  background-color: yellow;
-}
-.blue-1{
-  background-color: blue;
-}
-.red-1{
-  background-color: red;
-}
-
 .l{
   float: left;
 }
 
 br{
   line-height: 40px;
+}
+
+.r{
+  float: right;
 }
