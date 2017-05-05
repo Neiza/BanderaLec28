@@ -14,3 +14,11 @@ div{
 .red{
   background-color: red;
 }
+
+.l{
+  float: left;
+}
+
+br{
+  line-height: 40px;
+}
